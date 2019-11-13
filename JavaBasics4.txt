@@ -1,0 +1,24 @@
+FINAL KEYWORD:
+The final keyword in java is used to restrict the user. The java final keyword can be used in many context. Final can be:
+variable
+method
+class
+
+RUNTIME POLYMORPHISM:
+Runtime polymorphism or Dynamic Method Dispatch is a process in which a call to an overridden method is resolved at runtime rather than compile-time.
+UP-CASTING
+A a= new B();
+
+ABSTRACTION:  
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+There are two ways to achieve abstraction in java
+Abstract class (0 to 100%) - combination of abrstract methods + Non abstract methods
+Interface (100%) - 100% aubstract methods
+
+
+INTERFACE:
+The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. 
+
+ENCAPSULATION:
+Encapsulation in Java is a process of wrapping code and data together into a single unit
+** getter or setter methods.
