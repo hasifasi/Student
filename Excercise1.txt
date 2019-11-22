@@ -1,0 +1,5 @@
+1. Check whether given number is Prime
+
+2. Check whether given string is Palindrome without reverse method
+
+3. Find the 5!
